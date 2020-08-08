@@ -36,3 +36,6 @@ We've tried to keep the project simple and user-friendly by using various animat
     Ganache, Truffle,JavaScript, Solidity
 - EDITORS           : Atom, Visual Studio Code, Xampp 
 
+
+![Kitten class=thumbnail](https://github.com/1539sakshi/learning_readme/blob/master/vector-illustration-full-stack-developer-working-computer-professional-programmer-coding-website-creation-proccess-172914142.jpg)
+
