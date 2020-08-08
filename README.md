@@ -27,9 +27,10 @@ https://youtu.be/w1GNs7ie9pY -see it!
 - We've tried to keep the project simple and user-friendly by using various animations and self-designed vector-images. 
 
 ## PROPOSED TECHSTACK
-| - FRONTEND     : HTML5, CSS3, Bootstrap4, JavaScript,JQuery 
+- FRONTEND     : HTML5, CSS3, Bootstrap4, JavaScript,JQuery 
 - BACKEND 	  : MySql, PHP
 - BLOCKCHAIN : Ethereum, Node, Web-3, MetaMask, 
     Ganache, Truffle,JavaScript, Solidity
-- EDITORS           : Atom, Visual Studio Code, Xampp |
-![Kitten class=thumbnail](https://github.com/1539sakshi/learning_readme/blob/master/vector-illustration-full-stack-developer-working-computer-professional-programmer-coding-website-creation-proccess-172914142.jpg) |
+- EDITORS           : Atom, Visual Studio Code, Xampp 
+
+![Kitten class=thumbnail](https://github.com/1539sakshi/learning_readme/blob/master/vector-illustration-full-stack-developer-working-computer-professional-programmer-coding-website-creation-proccess-172914142.jpg) 
