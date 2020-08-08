@@ -34,3 +34,5 @@ https://youtu.be/w1GNs7ie9pY -see it!
 - EDITORS           : Atom, Visual Studio Code, Xampp 
 
 ![Kitten class=thumbnail](https://github.com/1539sakshi/learning_readme/blob/master/vector-illustration-full-stack-developer-working-computer-professional-programmer-coding-website-creation-proccess-172914142.jpg) 
+## INSPIRATION
+> We were inspired by the idea of converting crisis into opportunity by our honorable Prime Minister Mr. Narendra Modi. Further the volunteer's and NGO's who showed great enthusiasm trying to help people in the pandemic inspired us to create a mutual platform for the volunteers and the needy. Moreover, despite the challenges Covid-19 has created, the outbreak has quickly broadened the space for innovation and collaboration within the entrepreneurial ecosystem. Pushing us to recognise just how much we can achieve in a very short amount of time. It has driven a creative solution-focused and collaborative mindset in us!!
