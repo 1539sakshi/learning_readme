@@ -37,3 +37,6 @@ https://youtu.be/w1GNs7ie9pY -see it!
 - EDITORS           : Atom, Visual Studio Code, Xampp 
 
 ![Kitten class=thumbnail](https://github.com/1539sakshi/learning_readme/blob/master/vector-illustration-full-stack-developer-working-computer-professional-programmer-coding-website-creation-proccess-172914142.jpg) 
+<p align="center"> 
+<img src="https://github.com/1539sakshi/learning_readme/blob/master/vector-illustration-full-stack-developer-working-computer-professional-programmer-coding-website-creation-proccess-172914142.jpg" width="300" />
+</p>
