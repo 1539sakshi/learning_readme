@@ -39,3 +39,9 @@ https://youtu.be/w1GNs7ie9pY -see it!
 <p align="center"> 
 <img src="https://github.com/1539sakshi/learning_readme/blob/master/vector-illustration-full-stack-developer-working-computer-professional-programmer-coding-website-creation-proccess-172914142.jpg" width="300" />
 </p>
+
+## FUTURE PLANS FOR AVLAMB
+- Connect with Medical Staff : We're planning to a medical features that will connect people with renowned doctors across the globe. 
+- Easing with employment : We're trying to connect the recruiters with the potential employees keeping in view that the crisis unbalanced the ratio of employed and unemployed.
+- Personal-Counseling : We've decided to add the counselling feature to help individuals connect with counselors across the globe.
+- Enhancing Security : We've planned to make the application more secure in terms of transaction and payment by using technologies like artificial intelligence as in facial authentication.
