@@ -40,6 +40,24 @@ https://youtu.be/w1GNs7ie9pY -see it!
 <img src="https://github.com/1539sakshi/learning_readme/blob/master/vector-illustration-full-stack-developer-working-computer-professional-programmer-coding-website-creation-proccess-172914142.jpg" width="300" />
 </p>
 
+## WHAT IF VACCINE ARRIVES
+- The arrival of vaccine would lead to a great rush in the hospitals and pharmacy sector, which for obvious reasons won’t be good for health especially the senior citizens who are more prone to the disease.
+- We’ve planned to inculcate the feature of calling trained volunteers who follow all the safety norms while they visit the houses for vaccination. 
+- This would not only prevent the people from standing in long queues but also offer an edge to the elderly and specially abled people to get vaccinated at the comfort of their home.This would boost the economy without any stress of affecting citizen’s life.
+
+## UNIQUE SELLING POINTS
+> We're proud to share that we provided security to our users by using proper authentication for both users and volunteers. Moreover the blockchain network makes it most secure for payment and transfers. Additionally it was wonderful designing the site and connecting it structurally to make it user-friendly.
+Not only we connect the people in need with the volunteers but also bear the other feature which help people both economically and medically.
+With features like plasma donation, precautionary advice and motivational sources along with the connecting the volunteers to the needy make this a robust project. It also provides the opportunity to expand one’s business via the shop registration and order features!
+
+
+## CHALLENGES WE FACED
+> The biggest challenge in front of of us was to provide security to our users as to how could we deal with the payment system without any trust issues. Choosing the best technology to build this application was another major challenge. 
+
+Finally we ended up deciding the use of structured databases for storing information and identity for security purpose while using decentralized approach for the payment purpose with proper smart contracts that are capable of dealing with the fraud situations.
+
+
+
 ## FUTURE PLANS FOR AVLAMB
 We're planning to make it multi platform and add some additional features along with improving the security and authentication processes of the application. 
 - ***Connect with Medical Staff*** : We're planning to a medical features that will connect people with renowned doctors across the globe. 
