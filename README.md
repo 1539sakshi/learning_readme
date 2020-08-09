@@ -69,3 +69,7 @@ We're planning to make it multi platform and add some additional features along 
 ##  FUTURE SCOPE
 - We have checked the feasibility of our project in real life by performing various surveys and the results made us believe that this can be taken forward as a startup. 
 - With more security and authentication features this can be a trusted platform in the unknown world. If we ever got the opportunity to scale this up in real life, we would work to the best of our abilities to make it one of the reliable source for people.
+
+<p align="center"> 
+<img src="https://github.com/1539sakshi/learning_readme/blob/master/Screenshot%20(42).png" width="300" />
+</p>
