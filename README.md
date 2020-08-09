@@ -53,10 +53,7 @@ With features like plasma donation, precautionary advice and motivational source
 
 ## CHALLENGES WE FACED
 > The biggest challenge in front of of us was to provide security to our users as to how could we deal with the payment system without any trust issues. Choosing the best technology to build this application was another major challenge. 
-
 Finally we ended up deciding the use of structured databases for storing information and identity for security purpose while using decentralized approach for the payment purpose with proper smart contracts that are capable of dealing with the fraud situations.
-
-
 
 ## FUTURE PLANS FOR AVLAMB
 We're planning to make it multi platform and add some additional features along with improving the security and authentication processes of the application. 
